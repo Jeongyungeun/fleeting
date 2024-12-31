@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:fleeting/src/rust/api/counter.dart';
 import 'package:fleeting/src/rust/frb_generated.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
