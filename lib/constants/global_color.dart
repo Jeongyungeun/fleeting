@@ -18,7 +18,7 @@ class AppColors {
   static const Color brightBlue = Color.fromARGB(255, 123, 182, 212);
   static const Color salmon = Color.fromARGB(255, 255, 102, 102);
   static const Color frameColor = Color.fromARGB(115, 0, 0, 0);
-  static const Color mainColor = Color.fromARGB(255, 174, 210, 92);
   static const Color white = Color.fromARGB(255, 255, 255, 255);
-  static const Color boldColor = Color.fromARGB(255, 139, 175, 55);
+  static const Color boldColor = Color.fromARGB(255, 50, 151, 228);
+  static const Color mainColor = Color.fromARGB(255, 104, 173, 227);
 }

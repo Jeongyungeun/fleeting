@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import '../../../constants/global_color.dart';
+
 typedef ColorProvider = Color Function();
 
 abstract class AbsThemeColors {
